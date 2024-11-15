@@ -1,7 +1,7 @@
 import streamlit as st
 import spacy
 import numpy as np
-from langchain.llms import OpenAI
+from langchain_community.llms import OpenAI
 from textblob import TextBlob
 import plotly.graph_objects as go
 from datetime import datetime
