@@ -13,4 +13,14 @@ python -m pip install --upgrade pip
 pip install --no-deps -r requirements.txt
 ```
 
-You may have to install some additional packages
+Run the application with the following:
+
+```
+streamlit run prompt_tester.py
+```
+
+You may have to install some additional packages. See errors or warinings.
+
+## Using the application
+
+You will be prompted for a ChatGPT API key. You can get one from their website for free.
